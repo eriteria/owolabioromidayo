@@ -18,19 +18,19 @@
 
 ### Languages and Tools:
 
-<img align="left" width="30px" src="https://img-0.journaldunet.com/3UIcNSjWcq-tBa0f4GZFguwrmDM=/1280x/smart/d14dfaf85798491f8a14d8a20be4c357/ccmcms-jdn/11458235.jpg" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/c.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/cpp.png" />
-<img align="left"  width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/python.jpg" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/flask.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/nodejs.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/ubuntu.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/git.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/html.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/css.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/js.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/react.png" />
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/redux.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/git.png"
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/c.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/cpp.png" />
+<img align="left"  width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/python.jpg" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/flask.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/nodejs.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/ubuntu.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/git.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/html.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/css.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/js.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/react.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/redux.png" />
 
 
 
@@ -44,11 +44,11 @@
 
 ### Competitive Programming Handles:
 
-<a href="https://www.hackerrank.com/owolabi_oromida1" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/hackerrank.png" /> </a>
+<a href="https://www.hackerrank.com/owolabi_oromida1" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/hackerrank.png" /> </a>
 
-<a href="https://www.codewars.com/users/owolabioromidayo" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/codewars.png" /> </a>
+<a href="https://www.codewars.com/users/owolabioromidayo" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/codewars.png" /> </a>
 
-<a href="https://leetcode.com/owolabi_oromidayo/" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/leetcode.png" /> </a>
+<a href="https://leetcode.com/owolabi_oromidayo/" target="_blank"><img align="left" width="22px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/leetcode.png" /> </a>
 
 
 
