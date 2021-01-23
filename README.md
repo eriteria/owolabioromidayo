@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Owolabi Oromidayo.
+### My name is Owolabi Oromidayo.
 
 <strong>I stare at my screen all day...</strong> <br>
 
