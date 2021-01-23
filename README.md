@@ -23,14 +23,14 @@
 <img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/cpp.png" />
 <img align="left"  width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/python.jpg" />
 <img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/flask.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/nodejs.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/ubuntu.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/git.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/html.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/css.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/js.png" />
-<img align="left" width="50px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/react.png" />
-<img align="left" width="26px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/redux.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/nodejs.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/ubuntu.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/git.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/html.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/css.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/js.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/react.png" />
+<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/redux.png" />
 
 
 
