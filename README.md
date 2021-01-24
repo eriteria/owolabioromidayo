@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-<img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/git.png" />
+
 <img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/c.png" />
 <img align="left" width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/cpp.png" />
 <img align="left"  width="30px" src="https://github.com/owolabioromidayo/owolabioromidayo/blob/main/images/python.jpg" />
