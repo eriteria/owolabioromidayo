@@ -67,8 +67,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dayo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&count_private=true&include_all_commits=true" />
+  <p align="center" height='130px'><img align="left" alt="Dayo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&count_private=true&include_all_commits=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabioromidayo&layout=compact&theme=material-palenight" />
+  </p>
 </details>
 
 <br />
