@@ -9,7 +9,7 @@
 ## I'm a Computer Engineering Student 🚀
 
 - 🎇 Interested in embedded systems, IoT, robotics, linux and backend web development.
-- 🌱 I’m currently learning GraphQL, TypeScript, Queueing Systems and Redis.
+- 🌱 I’m currently learning GraphQL, TypeScript, Queueing Systems, Redis and Information Security.
 - 👯 I’m looking to collaborate on anything interesting.
 - ⚡Fun fact: I really love anime.
 
