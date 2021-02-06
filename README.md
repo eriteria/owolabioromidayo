@@ -74,6 +74,8 @@
 <br />
 <br />
 
+<!--
 [![pass](https://github-readme-stats.vercel.app/api/pin/?username=owolabioromidayo&repo=pass&show_owner=true)](https://github.com/owolabioromidayo/pass)
+-->
 
 
