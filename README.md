@@ -11,7 +11,7 @@
 - 🎇 Interested in embedded systems, IoT, robotics, linux and backend web development.
 - 🌱 I’m currently learning GraphQL, TypeScript, Queueing Systems, Redis and Information Security.
 - 👯 I’m looking to collaborate on anything interesting.
-- ⚡Fun fact: I really love anime.
+<!-- - ⚡Fun fact: I really love anime. -->
 
 
 <br />
