@@ -67,10 +67,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="owolabioromidayo"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabioromidayo&layout=compact&show_icons=true&hide_title=true" alt="crazychickendev"/> </p>
+<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=owolabioromidayo&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&count_private=true" alt="owolabioromidayo"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owolabioromidayo&layout=compact&show_icons=true&hide_title=true" /> </p>
   </p>
 </details>
 
+
+<h3 align="center">🎧 I'm currently vibing to</h3>
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=02wzmdpvlvhefquics3fkyn5u&cover_image=true&theme=default" alt="spotify"/></p>
 <br />
 <br />
 
