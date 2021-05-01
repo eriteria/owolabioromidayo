@@ -71,11 +71,12 @@
   </p>
 </details>
 
-
+<!--
 <h3 align="center">🎧 I'm currently vibing to</h3>
 <p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=02wzmdpvlvhefquics3fkyn5u&cover_image=true&theme=default" alt="spotify"/></p>
 <br />
 <br />
+-->
 
 <!--
 [![pass](https://github-readme-stats.vercel.app/api/pin/?username=owolabioromidayo&repo=pass&show_owner=true)](https://github.com/owolabioromidayo/pass)
