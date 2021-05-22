@@ -9,7 +9,7 @@
 ## I'm a Computer Engineering Student 🚀
 
 - 🎇 Interested in embedded systems, IoT, robotics, linux and backend web development.
-- 🌱 I’m currently learning ROS, Robotics, DApps and React Native.
+- 🌱 I’m currently learning ROS, Robotic Theory and SOlidity.
 - 👯 I’m looking to collaborate on anything interesting.
 <!-- - ⚡Fun fact: I really love anime. -->
 
