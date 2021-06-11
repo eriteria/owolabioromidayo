@@ -61,12 +61,6 @@
 
 <br /><br />
 
-### Electronics:
-<a href="https://www.tinkercad.com/users/3mNTvZchqQ1-owolabioromidayo?category=circuits&sort=likes&view_mode=default" target="_blank"><img align="left" width="22px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fppld.librarymarket.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Flarge%2Fpublic%2F2020-01%2Ftinkercad_logo.png%3Fitok%3DwxfACXjJ&f=1&nofb=1" /> </a>
-
-
-<br /><br />
-
 
 
 
